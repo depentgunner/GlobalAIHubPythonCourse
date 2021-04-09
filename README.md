@@ -6,11 +6,10 @@
 
 </div>
 
-# Welcome to our Introduction to Python Programming Course Repo!
-
-You can find more information about our Introduction to Machine Learning Course by visiting [Course Website.](https://globalaihub.com/introduction-to-machine-learning/)
-
-To enroll our courses, you can find the next course that fit your schedule by visiting [Upcoming Courses.](https://globalaihub.com/upcoming-courses/)
+Course Date: 05.04.2021-09.04.2021
+Name: Özgür
+Surname: Gümüş
+Email: gumus3113@gmail.com
 
 ## Syllabus
 
