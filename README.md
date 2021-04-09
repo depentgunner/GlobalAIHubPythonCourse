@@ -5,12 +5,13 @@
   <img src="images/tobb2.png" height=170px >
 
 </div>
+# GlobalAIHubPythonCourse
+![](img/newlogo.png)
 
-**Course Date: 05.04.2021-09.04.2021 
-**Name: Özgür
-**Surname: Gümüş
-**Email: gumus3113@gmail.com
-
+**Course Date:** DD.MM.YYYY  
+**Name:** Mert  
+**Surname:** Cobanov  
+**Email:** mertcobanov@gmail.com 
 ## Syllabus
 
 ### [Lesson 0](https://github.com/globalaihub/introduction-to-python/blob/master/Day0.ipynb)
