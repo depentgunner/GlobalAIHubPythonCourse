@@ -6,7 +6,8 @@
 
 </div>
 
-Course Date: 05.04.2021-09.04.2021 \n
+Course Date: 05.04.2021-09.04.2021 
+s
 Name: Özgür
 Surname: Gümüş
 Email: gumus3113@gmail.com
