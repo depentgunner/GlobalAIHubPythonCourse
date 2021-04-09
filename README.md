@@ -5,8 +5,8 @@
   <img src="images/tobb2.png" height=170px >
 
 </div>
+
 # GlobalAIHubPythonCourse
-![](img/newlogo.png)
 
 **Course Date:** 05.04.2021-09.04.2021  
 **Name:** Özgür  
