@@ -54,7 +54,8 @@
 - Introduction to Pandas
 
 ## Certificate
-![](images/[24635943608404](https://user-images.githubusercontent.com/73823527/114540644-73e24680-9c5e-11eb-8215-4c446d5046cc.png)
+![](![24635943608404](https://user-images.githubusercontent.com/73823527/114540953-cb80b200-9c5e-11eb-9906-b5c2604bb248.png)
+)
 )
 
 
