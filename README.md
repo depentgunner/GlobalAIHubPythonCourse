@@ -11,7 +11,7 @@
 **Course Date:** 05.04.2021-09.04.2021  
 **Name:** Özgür  
 **Surname:** Gümüş  
-**Email:** ozgurgumus1344@gmail.com 
+**Email:** gumus3113@gmail.com 
 
 ## Syllabus
 
